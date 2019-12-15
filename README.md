@@ -4,10 +4,10 @@
 [![](https://images.microbadger.com/badges/image/laslabs/alpine-cfssl.svg)](https://microbadger.com/images/laslabs/alpine-cfssl "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/laslabs/alpine-cfssl.svg)](https://microbadger.com/images/laslabs/alpine-cfssl "Get your own version badge on microbadger.com")
 
-CFSSL - Alpine
-==============
+CFSSL - Clear Linux
+===================
 
-This Docker image provides CloudFlare CFSSL based on Alpine Linux
+This Docker image provides CloudFlare CFSSL based on Clear Linux, it is a work in progress port of the Alpine Linux version.
 
 Usage
 =====
